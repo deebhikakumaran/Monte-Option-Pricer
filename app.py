@@ -288,4 +288,3 @@ if prices is not None:
     st.pyplot(fig3)
 
     st.success("Simulation complete. Use the controls to change symbol, strike, expiry, volatility, or simulation type.")
-
