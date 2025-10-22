@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+streamlit
+yfinance
+pandas-market-calendars
+nselib
